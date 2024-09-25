@@ -1,0 +1,7 @@
+pdf2image
+paddleocr
+Pillow
+opencv-python
+numpy
+easyocr
+tk
